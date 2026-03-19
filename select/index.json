@@ -1,80 +1,16 @@
 {
   "version": 1,
-  "base_track": "眠れない",
+  "base_track": "眠れない（feat. 楠木ともり）",
   "base_artist": "MIMiNARI",
-  "createdAt": "2026-03-07T12:03:00.283451Z",
+  "createdAt": "2026-03-19T06:45:36.219894Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "眠れない",
-      "artist": "Ayano Kaneko",
-      "has_synced": true,
-      "path": "select/01_眠れない_Ayano_Kaneko.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "眠れない",
-      "artist": "Kaneko Ayano",
-      "has_synced": true,
-      "path": "select/02_眠れない_Kaneko_Ayano.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "眠れない - Nemurenai (feat. Tomori Kusunoki)",
-      "artist": "MIMiNARI",
-      "has_synced": true,
-      "path": "select/03_眠れない_-_Nemurenai_(feat._Tomori_Kusunoki)_MIMiNARI.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "眠れない -TV version-",
-      "artist": "MIMiNARI feat. 楠木ともり",
-      "has_synced": true,
-      "path": "select/04_眠れない_-TV_version-_MIMiNARI_feat._楠木ともり.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "眠れない -TV version-",
-      "artist": "MIMiNARI",
-      "has_synced": true,
-      "path": "select/05_眠れない_-TV_version-_MIMiNARI.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "眠れない",
-      "artist": "カネコアヤノ",
-      "has_synced": true,
-      "path": "select/06_眠れない_カネコアヤノ.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
       "title": "眠れない feat. 楠木ともり -TV version-",
       "artist": "MIMiNARI",
       "has_synced": true,
-      "path": "select/07_眠れない_feat._楠木ともり_-TV_version-_MIMiNARI.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "眠れない",
-      "artist": "kiyosumi",
-      "has_synced": false,
-      "path": "select/08_眠れない_kiyosumi.txt"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "眠れない",
-      "artist": "カネコアヤノ [Kaneko Ayano]",
-      "has_synced": true,
-      "path": "select/09_眠れない_カネコアヤノ_[Kaneko_Ayano].lrc"
+      "path": "select/01_眠れない_feat._楠木ともり_-TV_version-_MIMiNARI.lrc"
     },
     {
       "id": "petitlyrics_1",
@@ -83,6 +19,15 @@
       "artist": "MIMiNARI, 楠木 ともり",
       "has_synced": false,
       "path": "select/pl_01_眠れない_MIMiNARI,_楠木_ともり.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "眠れない（feat. 楠木ともり）",
+      "artist": "MIMiNARI",
+      "has_synced": true,
+      "path": "select/localdb_01_眠れない(feat._楠木ともり)_MIMiNARI.lrc",
+      "repo_name": "FM9AySPC9Ak"
     }
   ]
 }
